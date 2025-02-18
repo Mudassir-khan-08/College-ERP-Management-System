@@ -1,1 +1,1 @@
-# College-ERP-Management-System
+# college-erp-management-system
